@@ -4,7 +4,7 @@
 // @name         bizbuysell - easy copy request data
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Monitors requests and gives the thing to add to the python scripts
+// @description  Monitors requests
 // @author       You
 // @match        https://www.bizbuysell.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=bizbuysell.com
